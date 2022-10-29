@@ -1,6 +1,8 @@
 # Third-Party APIs Challenge: Work Day Scheduler
 
-## Deployed application
+## Links
+https://adriana1013.github.io/Homework-week-05/
+https://github.com/Adriana1013/Homework-week-05
 
 ## User Story
 
